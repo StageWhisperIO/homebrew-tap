@@ -1,6 +1,6 @@
 cask "stagewhisper" do
-  version "1.31.1"
-  sha256 "744c72c0c9815940b0eeb72052044deed236ab70e0220c0a59b85b79e9d55440"
+  version "1.31.2"
+  sha256 "73a56d3d3c41a1b5e536abb2a3e7d85afa343706273e695796bf4bbc4226e997"
 
   url "https://github.com/StageWhisperIO/stagewhisper/releases/download/v#{version}/StageWhisper-Lite.dmg",
       verified: "github.com/StageWhisperIO/stagewhisper/"
