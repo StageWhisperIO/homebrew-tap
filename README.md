@@ -25,7 +25,7 @@ brew upgrade --cask stagewhisper --greedy
 
 ## Requirements
 
-- macOS 14 (Sonoma) or newer
+- macOS 14.2 (Sonoma) or newer
 - Apple Silicon
 
 This repository is generated from the StageWhisper monorepo. The cask is updated automatically on each release.
